@@ -1,0 +1,8 @@
+Enter number of files/directories: 4
+Enter adjacency matrix:
+0 1 1 0
+1 0 0 1
+1 0 0 1
+0 1 1 0
+Enter starting node (0 to 3): 0
+Enter target file node (0 to 3): 3
